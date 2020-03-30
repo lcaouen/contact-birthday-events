@@ -17,8 +17,8 @@
 *               SETTINGS
 *=========================================
 */
-//var calendarId = '';
-var calendarId = 'addressbook#contacts@group.v.calendar.google.com';    // Contact calendar ID. Can be found when running the "run" script with calendarId = ''
+var calendarId = '';
+//var calendarId = 'addressbook#contacts@group.v.calendar.google.com';    // Contact calendar ID. Can be found when running the "run" script with calendarId = ''
 var newCalendarName = 'Anniversaires';                                  // Calendar Name
 var calendarColor = "#3F51B5";                                          // Calendar Color
 var maxEventToCopy = 10;                                                // What interval (minutes) to run this script on to check for new events
